@@ -1,5 +1,4 @@
-# udacity-p3-osmDataWrangle
-OpenStreetMap data cleaning and conversion of XML file to CSV files for SQL
+3rd project of Data Analyst Nanodegree, OpenStreetMap Data Wrangling
 
 In this project, the quality of OpenStreetMap (OSM) XML data is audited and the problematic data is
 ironed out programmatically with Python. After the data cleaning, they are converted into .csv files
